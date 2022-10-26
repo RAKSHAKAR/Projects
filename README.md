@@ -9,14 +9,8 @@ This repository contains:
  - More Random coding practices
 
 
---[!Note]
-This is the subtext for Note
-until line break, `<br>` occurs
+> **Note**
+> This is a note
 
---[!Warning] 
-This is the subtext for Warning
-until line break, `<br>` occurs
-
---[!Alert] 
-This is the subtext for Alert
-until line break, `<br>` occurs
+> **Warning**
+> This is a warning
