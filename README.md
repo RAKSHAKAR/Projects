@@ -10,6 +10,7 @@ This repository contains:
 
 
 
+[Markdown] An option to highlight a "Note" and "Warning" using blockquote
 > **Check**
 > This is OK
 
@@ -19,6 +20,9 @@ This repository contains:
 > **Warning**
 > This is a warning
 
+> **Check**
+> This is OK
+> 
 --[!Note]
 This is the subtext for Note
 until line break, `<br>` occurs
